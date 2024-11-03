@@ -1,5 +1,4 @@
 ## <h3 align="center">Hey everyone, My name is Arpita Halvi</h3>
-## About me
 <p align="center">**Currently Learning** The MERN Stack (MongoDB, Express.js, React.js, Node.js) to build full-stack applications.</p>
 
 <!--
