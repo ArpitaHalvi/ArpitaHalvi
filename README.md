@@ -1,5 +1,5 @@
 ## <h3 align="center">Hey everyone, My name is Arpita Halvi</h3>
-<p align="center">**Currently Learning** The MERN Stack (MongoDB, Express.js, React.js, Node.js) to build full-stack applications.</p>
+<p align="center">Currently Learning </br> The MERN Stack (MongoDB, Express.js, React.js, Node.js) to build full-stack applications.</p>
 
 <!--
 **ArpitaHalvi/ArpitaHalvi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
