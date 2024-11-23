@@ -1,23 +1,10 @@
-<body width="50%">
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
           
 ## <h3 align="center">Hey everyone, My name is Arpita Halvi</h3>
 <p align="center">Currently Learning </br> The MERN Stack (MongoDB, Express.js, React.js, Node.js) to build full-stack applications.</p>
 
 <!--
-**ArpitaHalvi/ArpitaHalvi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**ArpitaHalvi/ArpitaHalvi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.!-->
 <h6 align="center">My Skills</h6>
 <p align="center">Frontend - HTML5, CSS3, JavaScript, React JS | Backend - Node.js, Express.js, PHP | Databases - MySQL, MongoDB | Frameworks - Bootstrap, Tailwind CSS</p>
 <p align="center">
@@ -39,4 +26,3 @@ Here are some ideas to get you started:
           
 </p>                    
           
-</body>
