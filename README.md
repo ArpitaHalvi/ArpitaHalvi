@@ -19,3 +19,6 @@ Here are some ideas to get you started:
 -->
 <h6 align="center">My Skills</h6>
 <p align="center">Frontend - HTML5, CSS3, JavaScript, React JS | Backend - Node.js, Express.js, PHP | Databases - MySQL, MongoDB | Frameworks - Bootstrap, Tailwind CSS</p>
+
+<i class="devicon-html5-plain-wordmark"></i>
+          
