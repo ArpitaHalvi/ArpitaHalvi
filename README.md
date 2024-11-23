@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h6 align="center">My Skills<h6/>
+<h6 align="center">My Skills</h6>
+<p>Frontend - HTML5, CSS3, JavaScript, React JS | Backend - Node.js, Express.js, PHP | Databases - MySQL, MongoDB | Frameworks - Bootstrap, Tailwind CSS</p>
