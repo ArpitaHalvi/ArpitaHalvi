@@ -1,3 +1,4 @@
+<body width="50%">
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
           
 ## <h3 align="center">Hey everyone, My name is Arpita Halvi</h3>
@@ -38,3 +39,4 @@ Here are some ideas to get you started:
           
 </p>                    
           
+</body>
