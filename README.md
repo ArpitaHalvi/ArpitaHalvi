@@ -1,5 +1,4 @@
-
-            <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
           
 ## <h3 align="center">Hey everyone, My name is Arpita Halvi</h3>
 <p align="center">Currently Learning </br> The MERN Stack (MongoDB, Express.js, React.js, Node.js) to build full-stack applications.</p>
