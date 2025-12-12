@@ -44,6 +44,14 @@
           <li>Flutter mobile apps</li>
           <li>Clothing and stationery product websites</li>
 </ul>
+<hr></hr>
+<h4>📬 Connect With Me</h4>
+<ul>
+          <li>LinkedIn: <a href="https://www.linkedin.com/in/arpita-halvi-488990251/">Connect with me on LinkedIn</a></li>
+          <li>Email: <a href="mailto:arpitahalvi@gmail.com">Drop me a message</a></li>
+          <li>Portfolio: <a href="https://arpitahalvi.github.io/personal-portfolio/">See what I build</a></li>
+          <li>Leetcode: <a href="https://leetcode.com/u/ArpitaCode/">View My Problem-Solving Profile</a></li>
+</ul>
 
 <!-- <p align="center">Frontend - HTML5, CSS3, JavaScript, React JS | Backend - Node.js, Express.js, PHP | Databases - MySQL, MongoDB | Frameworks - Bootstrap, Tailwind CSS, Flutter</p>
 <p align="center">
