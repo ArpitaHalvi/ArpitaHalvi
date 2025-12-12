@@ -3,23 +3,39 @@
 ## <h3>Hi, I'm Arpita Halvi</h3>
 <p>A dedicated Full-Stack Developer, Flutter Developer, and passionate learner focused on building scalable, user-friendly web and mobile applications. I have hands-on experience developing complete products as a solo developer and freelancer, combining strong CS fundamentals with practical engineering skills.</p>
 
+<h4>🚀 About Me</h4>
+<ul>
+          <li>Full-Stack Web Developer (MERN)</li>
+          <li>Flutter Mobile App Developer</li>
+          <li>Freelance developer with real-world project experience</li>
+          <li>Strong programming foundation: Java, Python, C, C++</li>
+          <li>Skilled in APIs, JWT authentication, database modeling</li>
+          <li>Exploring Next.js and advanced frontend architecture</li>
+          <li>Interested in NLP, AI projects, and scalable system design</li>
+</ul>
 <!--
 **ArpitaHalvi/ArpitaHalvi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.!-->
+<hr></hr>
 <h4>🛠️ Programming Languages</h4>
 <p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50" title="Python"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" height="50" title="Java"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="50" height="50" title="C"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50" height="50" title="C++"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="50" height="50" title="PHP"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50" title="JavaScript"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="50" height="50" title="TypeScript"/> <img src="https://skillicons.dev/icons?i=mysql" width="50" height="50" title="SQL/MySQL"/> </p>
 
+<hr></hr>
 <h4>🎨 Frontend Technologies</h4>
 <p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50" height="50" title="HTML5"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50" height="50" title="CSS3"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50" title="JavaScript"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="50" height="50" title="Bootstrap"/> <img src="https://skillicons.dev/icons?i=tailwind" width="50" height="50" title="Tailwind CSS"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50" height="50" title="ReactJS"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="50" height="50" title="TypeScript"/> </p>
 
+<hr></hr>
 <h4>⚡ Frameworks & Libraries</h4>
 <p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="50" height="50" title="NodeJS"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="50" height="50" title="ExpressJS"/> <img src="https://skillicons.dev/icons?i=tailwind" width="50" height="50" title="Tailwind CSS"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="50" height="50" title="Bootstrap"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50" height="50" title="ReactJS"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="50" height="50" title="Flutter"/> </p>
 
+<hr></hr>
 <h4>🗄️ Tools & Databases</h4>
 <p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="50" height="50" title="MongoDB"/> <img src="https://skillicons.dev/icons?i=mysql" width="50" height="50" title="MySQL"/> <img src="https://skillicons.dev/icons?i=vscode" width="50" height="50" title="VS Code"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50" title="Python"/> <img src="https://skillicons.dev/icons?i=androidstudio" width="50" height="50" title="Android Studio"/> <img src="https://skillicons.dev/icons?i=git" width="50" height="50" title="Git"/> <img src="https://skillicons.dev/icons?i=github" width="50" height="50" title="GitHub"/> </p>
 
+<hr></hr>
 <h4>📚 CS Fundamentals</h4>
 <p align="left"> <img src="https://skillicons.dev/icons?i=linux" width="50" height="50" title="Operating Systems"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" height="50" title="OOP Concepts"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50" height="50" title="Data Structures"/> <img src="https://skillicons.dev/icons?i=git" width="50" height="50" title="Version Control"/> </p>
 
+<hr></hr>
 
 <!-- <p align="center">Frontend - HTML5, CSS3, JavaScript, React JS | Backend - Node.js, Express.js, PHP | Databases - MySQL, MongoDB | Frameworks - Bootstrap, Tailwind CSS, Flutter</p>
 <p align="center">
