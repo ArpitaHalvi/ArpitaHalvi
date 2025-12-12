@@ -36,6 +36,14 @@
 <p align="left"> <img src="https://skillicons.dev/icons?i=linux" width="50" height="50" title="Operating Systems"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" height="50" title="OOP Concepts"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50" height="50" title="Data Structures"/> <img src="https://skillicons.dev/icons?i=git" width="50" height="50" title="Version Control"/> </p>
 
 <hr></hr>
+<h4>📌 Featured Projects</h4>
+<ul>
+          <li>Stock Market Web Application</li>
+          <li>Advanced Todoist App (Redux Toolkit)</li>
+          <li>French Course Platform (MERN)</li>
+          <li>Flutter mobile apps</li>
+          <li>Clothing and stationery product websites</li>
+</ul>
 
 <!-- <p align="center">Frontend - HTML5, CSS3, JavaScript, React JS | Backend - Node.js, Express.js, PHP | Databases - MySQL, MongoDB | Frameworks - Bootstrap, Tailwind CSS, Flutter</p>
 <p align="center">
