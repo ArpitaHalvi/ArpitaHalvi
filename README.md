@@ -1,6 +1,6 @@
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
           
-## <h3>Hi, I'm Arpita Halvi</h3>
+## <h2>Hi, I'm Arpita Halvi</h2>
 <p>A dedicated Full-Stack Developer, Flutter Developer, and passionate learner focused on building scalable, user-friendly web and mobile applications. I have hands-on experience developing complete products as a solo developer and freelancer, combining strong CS fundamentals with practical engineering skills.</p>
 
 <h4>🚀 About Me</h4>
